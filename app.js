@@ -4,7 +4,7 @@
   const TZ = 'Asia/Kolkata';
   const LS = { pass: 'ce.passphrase', picks: 'ce.picks', picks2: 'ce.picks.v2', last: 'ce.lastVisit', ui: 'ce.ui',
     token: 'ce.sync.token', dirty: 'ce.sync.dirty', lastSync: 'ce.sync.last' };
-  const SYNC = { owner: 'nishron03', repo: 'campus-events-picks', path: 'picks.enc.json' };
+  const SYNC = { owner: 'wnishron-collab', repo: 'campus-events-picks', path: 'picks.enc.json' };
   const S = window.CESync;
   const TALK_CATS = [['all', 'All'], ['core', 'Core research'], ['physics', 'Physics'], ['other', 'Other'], ['social', 'Social']];
   const EVENT_CATS = [['all', 'All'], ['event', 'Events'], ['opportunity', 'Opportunities']];
